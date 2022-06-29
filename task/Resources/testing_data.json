@@ -1,0 +1,53 @@
+{
+    "alerts": [
+        {
+            "btn_id": "alertButton"
+        },
+        {
+            "btn_id": "confirmButton",
+            "result_id": "confirmResult"
+        },
+        {
+            "btn_id": "promtButton",
+            "result_id": "promptResult",
+            "enter_text": "True"
+        }
+    ],
+    "frames": [
+        {
+            "id": "frame1"
+        },
+        {
+            "id": "frame2"
+        }
+    ],
+    "nested_frames": {
+        "id": "frame1"
+    },
+    "webtable_inputs": [
+        {
+            "label": "First Name",
+            "id": "firstName"
+        },
+        {
+            "label": "Last Name",
+            "id": "lastName"
+        },
+        {
+            "label": "Email",
+            "id": "userEmail"
+        },
+        {
+            "label": "Age",
+            "id": "age"
+        },
+        {
+            "label": "Salary",
+            "id": "salary"
+        },
+        {
+            "label": "Department",
+            "id": "department"
+        }
+    ]
+}

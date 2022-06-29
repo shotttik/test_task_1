@@ -1,0 +1,349 @@
+2022-06-26 14:56:52,469 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 14:56:52,469 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 14:56:52,470 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 14:56:52,510 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 14:56:52,745 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 14:56:52,844 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 14:56:52,851 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 14:56:52,851 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 14:56:52,854 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 14:56:55,508 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 14:56:55,518 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 14:56:55,518 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 14:56:55,565 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 14:56:55,565 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 14:56:58,155 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 14:56:58,162 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 14:56:58,162 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 14:56:58,200 — task3.Pages.AlertsPage — INFO — Text "You entered URZpKfiaCw" has appeared on page
+2022-06-26 14:56:58,200 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:01:59,895 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:01:59,895 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:01:59,896 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:01:59,930 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:02:00,238 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:02:00,354 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:02:00,362 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 15:02:00,363 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 15:02:00,371 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:02:02,984 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:02:02,994 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 15:02:02,994 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 15:02:03,038 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 15:02:03,038 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:02:05,696 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:02:05,705 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 15:02:05,705 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 15:02:05,770 — task3.Pages.AlertsPage — INFO — Text "You entered xSnbHtwLOq" has appeared on page
+2022-06-26 15:02:05,770 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:19:41,776 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:19:41,776 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:19:41,779 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:19:41,972 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:19:41,973 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:19:45,761 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:19:45,761 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:19:45,761 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:19:45,958 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:19:45,958 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:19:57,681 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:19:57,681 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:19:57,681 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:19:57,889 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:19:57,889 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:20:01,325 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:20:01,325 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:20:01,325 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:20:01,553 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:20:01,554 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:21:56,808 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:21:56,808 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:21:56,809 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:21:57,037 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:21:57,037 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:22:11,197 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:22:11,197 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:22:11,197 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:22:11,395 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:22:11,395 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:22:15,373 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:22:15,373 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:22:15,373 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:23:40,040 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:23:40,041 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:23:40,042 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:23:40,293 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:23:40,294 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:23:43,954 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:23:43,954 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:23:43,954 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:23:44,150 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:23:44,150 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:25:01,919 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:25:01,919 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:25:01,919 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:25:02,157 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:25:02,157 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:25:05,434 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:25:05,434 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:25:05,434 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:25:05,634 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:25:05,634 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:26:26,353 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:26:26,353 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:26:26,353 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:26:26,550 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:26:26,550 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:26:26,714 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:26,721 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 15:26:26,721 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 15:26:26,725 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:29,424 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:29,432 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 15:26:29,433 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 15:26:29,472 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 15:26:29,472 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:32,086 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:32,093 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 15:26:32,093 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 15:26:32,134 — task3.Pages.AlertsPage — INFO — Text "You entered FtYWRFkSCl" has appeared on page
+2022-06-26 15:26:32,134 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:38,413 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:26:38,414 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:26:38,414 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:26:38,699 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:26:38,699 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:26:53,231 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:26:53,231 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:26:53,232 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:26:53,440 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:26:53,440 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:26:53,654 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:53,667 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 15:26:53,667 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 15:26:53,672 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:56,320 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:56,330 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 15:26:56,330 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 15:26:56,376 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 15:26:56,377 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:59,019 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:26:59,025 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 15:26:59,025 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 15:26:59,070 — task3.Pages.AlertsPage — INFO — Text "You entered yMbixdFazt" has appeared on page
+2022-06-26 15:26:59,070 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:27:05,316 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:27:05,316 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:27:05,316 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:27:05,533 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:27:05,533 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:28:38,217 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:28:38,217 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:28:38,217 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:28:38,449 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:28:38,450 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:28:38,584 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:28:38,675 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:28:38,683 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 15:28:38,683 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 15:28:38,686 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:28:41,382 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:28:41,388 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 15:28:41,388 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 15:28:41,429 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 15:28:41,429 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:28:44,147 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:28:44,153 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 15:28:44,153 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 15:28:44,248 — task3.Pages.AlertsPage — INFO — Text "You entered FCxNzBwXWx" has appeared on page
+2022-06-26 15:28:44,248 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:28:50,622 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:28:50,622 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:28:50,622 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:28:50,853 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:28:50,853 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:28:50,952 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:32:54,072 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:32:54,072 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:32:54,072 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:32:54,267 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:32:54,268 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:32:54,369 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:32:54,459 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:32:54,469 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 15:32:54,469 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 15:32:54,475 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:32:57,128 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:32:57,137 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 15:32:57,137 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 15:32:57,183 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 15:32:57,183 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:32:59,801 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:32:59,807 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 15:32:59,807 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 15:32:59,853 — task3.Pages.AlertsPage — INFO — Text "You entered FqEvdAtxSD" has appeared on page
+2022-06-26 15:32:59,854 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 15:33:06,207 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 15:33:06,207 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 15:33:06,207 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 15:33:06,428 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 15:33:06,429 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 15:33:06,601 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 16:07:13,103 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 16:07:13,103 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 16:07:13,103 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 16:07:13,287 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 16:07:13,288 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 16:07:13,376 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 16:07:13,467 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 16:07:13,474 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 16:07:13,474 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 16:07:13,477 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 16:07:16,147 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 16:07:16,175 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 16:07:16,175 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 16:07:16,260 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 16:07:16,260 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 16:07:18,873 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 16:07:18,894 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 16:07:18,895 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 16:07:19,042 — task3.Pages.AlertsPage — INFO — Text "You entered dQnjkjDpWS" has appeared on page
+2022-06-26 16:07:19,042 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 16:07:25,369 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 16:07:25,369 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 16:07:25,370 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 16:07:25,621 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 16:07:25,621 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 16:07:25,740 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 17:29:49,233 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 17:29:49,233 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 17:29:49,233 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 17:29:49,456 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 17:29:49,457 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 17:29:49,541 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 17:29:49,620 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 17:29:49,629 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 17:29:49,629 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 17:29:49,632 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 17:29:52,337 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 17:29:52,356 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 17:29:52,356 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 17:29:52,398 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 17:29:52,398 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 17:29:55,006 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 17:29:55,016 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 17:29:55,016 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 17:29:55,056 — task3.Pages.AlertsPage — INFO — Text "You entered dPsJzGoLUZ" has appeared on page
+2022-06-26 17:29:55,056 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 17:30:01,408 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 17:30:01,408 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 17:30:01,409 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 17:30:01,680 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 17:30:01,680 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 17:30:01,774 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 17:30:01,804 — task3.Tests.test_task — INFO — There are messages "Parent frame" & "Child Iframe" present on page
+2022-06-26 17:30:01,985 — task3.Tests.test_task — INFO — Parent Frame Text = "Parent frame". Child Frame Text = "Child Iframe".
+2022-06-26 20:46:27,090 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 20:46:27,090 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 20:46:27,090 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 20:46:27,338 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 20:46:27,339 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:46:27,466 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:46:27,562 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:46:27,579 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 20:46:27,579 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 20:46:27,582 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:46:30,217 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:46:30,232 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 20:46:30,233 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 20:46:30,276 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 20:46:30,276 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:46:32,874 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:46:32,889 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 20:46:32,889 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 20:46:32,990 — task3.Pages.AlertsPage — INFO — Text "You entered fZUQUpkyQQ" has appeared on page
+2022-06-26 20:46:32,991 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:46:38,844 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 20:46:38,845 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 20:46:38,845 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 20:46:39,042 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 20:46:39,042 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:46:39,155 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:46:39,399 — task3.Tests.test_task — INFO — There are messages "Parent frame" & "Child Iframe" present on page
+2022-06-26 20:46:39,513 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:46:39,642 — task3.Tests.test_task — INFO — Message from upper frame is equal to the message from lower frame
+2022-06-26 20:47:32,977 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 20:47:32,978 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 20:47:32,978 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 20:47:33,225 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 20:47:33,226 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:47:33,330 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:47:33,434 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:47:33,441 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 20:47:33,441 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 20:47:33,457 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:47:36,059 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:47:36,065 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 20:47:36,065 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 20:47:36,100 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 20:47:36,100 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:47:38,707 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:47:38,713 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 20:47:38,713 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 20:47:38,751 — task3.Pages.AlertsPage — INFO — Text "You entered mvqKNYmpwK" has appeared on page
+2022-06-26 20:47:38,751 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:47:44,987 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 20:47:44,988 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 20:47:44,988 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 20:47:45,257 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 20:47:45,257 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:47:45,348 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:47:45,587 — task3.Tests.test_task — INFO — There are messages "Nested Frames
+Elements
+ Forms
+ Alerts, Frame & Windows
+ Browser Windows
+Alerts
+Frames
+Nested Frames
+Modal Dialogs
+Widgets
+ Interactions
+ Book Store Application
+ Sample Nested Iframe page. There are nested iframes in this page. Use browser inspecter or firebug to check out the HTML source. In total you can switch between the parent frame and the nested child frame.
+
+© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED." & "QA Automation Engineer
+We invite you to our company, not a project
+DataArt
+Apply Now" present on page
+2022-06-26 20:47:45,656 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:47:45,681 — task3.Tests.test_task — INFO — Message from upper frame is equal to the message from lower frame
+2022-06-26 20:48:10,261 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 20:48:10,262 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 20:48:10,263 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 20:48:10,739 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 20:48:10,740 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:48:10,848 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:48:10,969 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:48:10,981 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is open 
+2022-06-26 20:48:10,981 — task3.WEBTools.alert — INFO — Alert with text "You clicked a button" is closed 
+2022-06-26 20:48:10,992 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:48:13,666 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:48:13,675 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is open 
+2022-06-26 20:48:13,676 — task3.WEBTools.alert — INFO — Alert with text "Do you confirm action?" is closed 
+2022-06-26 20:48:13,719 — task3.Pages.AlertsPage — INFO — Text "You selected Ok" has appeared on page
+2022-06-26 20:48:13,719 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:48:16,409 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:48:16,416 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is open 
+2022-06-26 20:48:16,416 — task3.WEBTools.alert — INFO — Alert with text "Please enter your name" is closed 
+2022-06-26 20:48:16,462 — task3.Pages.AlertsPage — INFO — Text "You entered HWYFdzyeCq" has appeared on page
+2022-06-26 20:48:16,462 — task3.Pages.BasePage — INFO — Checking Alert Existing
+2022-06-26 20:48:22,576 — task3.Tests.test_task — INFO — Test Case 1 Started
+2022-06-26 20:48:22,576 — task3.Tests.test_task — INFO — Main page is open
+2022-06-26 20:48:22,576 — task3.Pages.BasePage — INFO — Verifing page by element 
+2022-06-26 20:48:22,816 — task3.Tests.test_task — INFO — Alerts form has appeared on page
+2022-06-26 20:48:22,816 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:48:22,980 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:48:23,154 — task3.Tests.test_task — INFO — There are messages "Parent frame" & "Child Iframe" present on page
+2022-06-26 20:48:23,220 — task3.Pages.BasePage — INFO — Verifing page by element text
+2022-06-26 20:48:23,240 — task3.Tests.test_task — INFO — Message from upper frame is equal to the message from lower frame
