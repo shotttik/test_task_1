@@ -1,4 +1,6 @@
-from task3.Tests.logger import CustomLogger
+
+from task.Core.logger import CustomLogger
+
 
 LOGGER = CustomLogger.get_logger(__name__)
 

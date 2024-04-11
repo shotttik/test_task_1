@@ -6,6 +6,8 @@ import os
 
 TODAY_ISO = datetime.today().date().isoformat()
 CURRENT_PATH = os.path.dirname(__file__)
+# FORMATTER = logging.Formatter(
+# "%(levelname)s — %(asctime)s — %(message)s", "%Y-%m-%d %H:%M:%S")
 FORMATTER = logging.Formatter(
     "%(asctime)s — %(name)s — %(levelname)s — %(message)s")
 LOG_FILE = f"{CURRENT_PATH}/logs/{TODAY_ISO}.log"

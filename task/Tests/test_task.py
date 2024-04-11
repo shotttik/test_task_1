@@ -1,38 +1,35 @@
 import pytest
-from task3.Locators.FrameLocators import FrameLocators
-from task3.Locators.WebTablesLocators import WebTablesLocators
-from task3.Pages.ElementsPage import ElementsPage
-from task3.Pages.NestedFramesPage import NestedFamesPage
-from task3.Pages.MainPage import MainPage
-from task3.Pages.AlertsPage import AlertsPage
-from task3.Locators.AlertLocators import AlertLocators
-from task3.Pages.WebTablesPage import WebTablesPage
-from task3.utils import Utils
-from .logger import CustomLogger
-from task3.WEBTools.alert import Alert
-from task3.Tests.singleton import Singleton
-from task3.Pages.FramesPage import FamesPage
+
+from task.Pages import MainPage
+
+
+from ..Core.logger import CustomLogger
 
 LOGGER = CustomLogger.get_logger(__name__)
+# @TODO logebis gata page-bshi uketeshi ikneboda :))
 
 
-class BaseTestCase:
+@pytest.mark.usefixtures("init_driver")
+class Test_Case_1:
     def main_verified(self):
         LOGGER.info("Test Case 1 Started")
         # Main Page
         LOGGER.info("Main page is open")
         self.main_page = MainPage(self.wait_time)
-        assert self.main_page.verify_page(), "Main Page couldn't be verified"
+        assert self.main_page.verify_page(
+        ) == self.testing_data.main_title, "Main Page couldn't be verified"
 
-    def go_to_AlertsWindows_page(self):
+    def test_case(self):
         self.main_verified()
-        self.main_page.go_to_alertsWindows()
-        LOGGER.info("Alerts form has appeared on page")
-        # Alerts Page
-        self.alerts_page = AlertsPage(self.wait_time)
-        assert self.alerts_page.verify_page_by_name(
-        ) == 'Alerts, Frame & Windows', "Alerts, Frame & Windows Page couldn't be verified"
+        LOGGER.info("Filling registration form inputs.")
+        self.main_page.fill_inputs()
 
+        LOGGER.info("Verifying passwords.")
+        assert self.main_page.password_input.get_element_text(
+        ) == self.main_page.confirm_password_input.get_element_text()
+
+        LOGGER.info("Submitting form.")
+        self.main_page.submit_form()
 
 # @pytest.mark.usefixtures("init_driver")
 # class Test_Case_1(BaseTestCase):
@@ -100,40 +97,40 @@ class BaseTestCase:
 #         assert first_iframe == second_iframe, 'Message from upper frame isn`t equal to the message from lower frame'
 
 
-@pytest.mark.usefixtures("init_driver")
-class Test_Case_3(BaseTestCase):
-    def test_case(self):
-        # Main Page
-        self.main_verified()
-        self.main_page.go_to_elementsWindows()
-        # Elements Page
-        self.elements_page = ElementsPage(self.wait_time, 'Elements')
-        assert self.elements_page.verify_page_by_name(
-        ) == self.elements_page.name, "Elements  Page couldn't be verified"
-        self.elements_page.go_to_webtablesPage()
-        # WebTables Page
-        self.webtables_page = WebTablesPage(self.wait_time, 'Web Tables')
-        LOGGER.info("Page with Web Tables form is open")
-        assert self.webtables_page.verify_page_by_name(
-        ) == self.webtables_page.name, "Web Tables page couldn't be verified"
+# @pytest.mark.usefixtures("init_driver")
+# class Test_Case_3(BaseTestCase):
+#     def test_case(self):
+#         # Main Page
+#         self.main_verified()
+#         self.main_page.go_to_elementsWindows()
+#         # Elements Page
+#         self.elements_page = ElementsPage(self.wait_time, 'Elements')
+#         assert self.elements_page.verify_page_by_name(
+#         ) == self.elements_page.name, "Elements  Page couldn't be verified"
+#         self.elements_page.go_to_webtablesPage()
+#         # WebTables Page
+#         self.webtables_page = WebTablesPage(self.wait_time, 'Web Tables')
+#         LOGGER.info("Page with Web Tables form is open")
+#         assert self.webtables_page.verify_page_by_name(
+#         ) == self.webtables_page.name, "Web Tables page couldn't be verified"
 
-        # REGISTRATION FORM
-        data_csv_table = Utils.data_from_csv_table('tables')
-        for data in data_csv_table:
-            LOGGER.info("Registration Form has appeared on page")
-            self.webtables_page.open_registration_form()
-            LOGGER.info("Registration Form has closed")
-            self.webtables_page.fill_modal_form(self.webtable_inputs, data)
-            LOGGER.info(
-                f"Data of User №{data['User#']} has appeared in a table")
-            # I chose email because its unique value
-            locator_row_by_email = WebTablesLocators.item_in_table(
-                data['Email'])
-            self.webtables_page.wait_all_element_located(
-                locator_row_by_email)
-            LOGGER.info("Number of records in table has changed")
-            LOGGER.info(
-                f"Data of User №{data['User#']} has been deleted from table")
-            self.webtables_page.delete_specifiy_row(data["Email"])
-            self.webtables_page.wait_for_element_to_dissapear(
-                locator_row_by_email)
+#         # REGISTRATION FORM
+#         data_csv_table = Utils.data_from_csv_table('tables')
+#         for data in data_csv_table:
+#             LOGGER.info("Registration Form has appeared on page")
+#             self.webtables_page.open_registration_form()
+#             LOGGER.info("Registration Form has closed")
+#             self.webtables_page.fill_modal_form(self.webtable_inputs, data)
+#             LOGGER.info(
+#                 f"Data of User №{data['User#']} has appeared in a table")
+#             # I chose email because its unique value
+#             locator_row_by_email = WebTablesLocators.item_in_table(
+#                 data['Email'])
+#             self.webtables_page.wait_all_element_located(
+#                 locator_row_by_email)
+#             LOGGER.info("Number of records in table has changed")
+#             LOGGER.info(
+#                 f"Data of User №{data['User#']} has been deleted from table")
+#             self.webtables_page.delete_specifiy_row(data["Email"])
+#             self.webtables_page.wait_for_element_to_dissapear(
+#                 locator_row_by_email)
