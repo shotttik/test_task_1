@@ -1,5 +1,5 @@
 
-from task.Elements import Button
+from task.Elements.Button import Button
 from task.Elements.InputField import InputField
 from task.Elements.TextField import TextField
 from task.Locators.MainLocators import MainLocators

@@ -2,6 +2,6 @@
   "start_url": "https://magento.softwaretestingboard.com/customer/account/create/",
   "output": "./Resources/output.xlsx",
   "testing_data": {
-    "main_title": "Create New Customer Account"
+    "main_title": "Create an Account"
   }
 }
